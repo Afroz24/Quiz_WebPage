@@ -1,3 +1,3 @@
-Preview of My Project :  https://[localhost:8000/index_Page](http://localhost:8000/login)
+Preview of My Project :  http://localhost:8000/
 
 The above link works only if the server is running in background
