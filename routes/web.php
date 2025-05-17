@@ -40,4 +40,4 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
-
+//added comment in web.php for testing-branch-1
