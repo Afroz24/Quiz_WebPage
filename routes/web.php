@@ -42,3 +42,4 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 
 //added comment in web.php for testing-branch-1
 //added comment usinng testing-branch-2
+//added comment using testing-branch-2 and after pushing i will create pull request its a formal way to ask senior to please review and merge
